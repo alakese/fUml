@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../images/classitem.png</file>
+        <file>../images/load.png</file>
+        <file>../images/new.png</file>
+        <file>../images/ok.png</file>
+        <file>../images/redo.png</file>
+        <file>../images/save.png</file>
+        <file>../images/undo.png</file>
+        <file>../images/config.png</file>
+        <file>../images/down.jpg</file>
+        <file>../images/up.jpg</file>
+        <file>../images/association.png</file>
+    </qresource>
+</RCC>
